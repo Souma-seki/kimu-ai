@@ -7,6 +7,7 @@ type WorkBase = {
   title: string;
   author: string;
   createdTime: number;
+  contentUrl: string;
 };
 
 export type loadingWorkEntity = WorkBase & {
