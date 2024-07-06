@@ -8,6 +8,12 @@
   background: #333a;
 }
 
+.contentFrame {
+  position: relative;
+  height: 100%;
+  background: #333a;
+}
+
 @keyframes load {
   0% {
     transform: translate(-50%, -50%) rotate(0deg);
